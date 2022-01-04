@@ -1,5 +1,4 @@
 # Reddit_Post_topic_2021
 
-See https://www.kaggle.com/c/reddit-post-topic-model-fall21/data for missing raw data files: training_emb.csv,
-                                                                                             test_emb.csv 
-                                                                                             
+For full project description, see https://www.kaggle.com/c/reddit-post-topic-model-fall21/overview
+For missing raw data files (e.g. training_emb.csv, test_emb.csv), see https://www.kaggle.com/c/reddit-post-topic-model-fall21/data
