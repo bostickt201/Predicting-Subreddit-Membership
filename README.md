@@ -1,4 +1,4 @@
-# Reddit_Post_topic_2021
+# Predicting Subreddit Membership
 
 For full project description, see https://www.kaggle.com/c/reddit-post-topic-model-fall21/overview
 
